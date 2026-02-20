@@ -6,7 +6,7 @@ The goal is to understand how high-level constructs map to low-level
 assembly operations, including register usage, arithmetic, logic,
 control flow, and loops.
 
-## ⚙️ Features
+##  Features
 
 ###  Register Mapping
 - A → `eax`
