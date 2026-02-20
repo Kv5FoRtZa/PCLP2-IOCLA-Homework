@@ -45,7 +45,7 @@ If multiple solutions have the same length, choose the
 
 ---
 
-# Subtask 1 – Palindrome Check (5p)
+## Subtask 1 – Palindrome Check (5p)
 
 - Return `1` if the string is a palindrome.
 - Return `0` otherwise.
@@ -53,7 +53,7 @@ If multiple solutions have the same length, choose the
 
 ---
 
-#  Subtask 2 – Composite Palindrome (30p)
+##  Subtask 2 – Composite Palindrome (30p)
 
 - Consider all valid **subsequences** of words.
 - Concatenate them.
